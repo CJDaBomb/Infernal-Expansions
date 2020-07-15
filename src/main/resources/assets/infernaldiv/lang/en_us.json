@@ -1,0 +1,19 @@
+{
+  "itemGroup.InfernalTab": "Infernal Expansion",
+
+  "block.infernaldiv.dimstone": "Dimstone",
+  "block.infernaldiv.dullstone": "Dullstone",
+  "block.infernaldiv.glowstone_brick": "Glowstone Bricks",
+  "block.infernaldiv.chiselled_glowstone_brick1": "Glowsquito Glowstone Bricks",
+  "block.infernaldiv.chiselled_glowstone_brick2": "Chiselled Glowstone Bricks",
+  "block.infernaldiv.dimstone_brick": "Dimstone Bricks",
+  "block.infernaldiv.chiselled_dimstone_brick1":  "Glowsquito Dimstone Brick",
+  "block.infernaldiv.chiselled_dimstone_brick2":  "Chiselled Dimstone Brick",
+  "block.infernaldiv.dullstone_brick": "Dullstone Bricks",
+  "block.infernaldiv.chiselled_dullstone_brick1": "Glowsquito Dullstone Brick",
+  "block.infernaldiv.chiselled_dullstone_brick2": "Chiselled Dullstone Brick",
+
+  "item.infernaldiv.glowcoal": "Glowcoal",
+  "item.infernaldiv.glownuggets": "glownuggets"
+
+}

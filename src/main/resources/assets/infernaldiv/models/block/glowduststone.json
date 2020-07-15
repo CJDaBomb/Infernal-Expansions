@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "front": "infernaldiv:blocks/glowduststone",
+    "left": "infernaldiv:blocks/glowduststone",
+    "right": "infernaldiv:blocks/glowduststone",
+    "back": "infernaldiv:blocks/glowduststone",
+    "top": "infernaldiv:blocks/glowduststone_top",
+    "bottom": "infernaldiv:blocks/glowduststone_bottom"
+  }
+}
